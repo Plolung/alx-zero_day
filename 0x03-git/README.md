@@ -1,1 +1,1 @@
-Patrick is awesome
+Learning ALX is so refreshing
